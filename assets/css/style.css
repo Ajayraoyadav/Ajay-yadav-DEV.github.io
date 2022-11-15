@@ -1012,20 +1012,27 @@ section {
   text-align: center;
   width: 40px;
   height: 100px;
-
 }
 .asdiufgbc > img {
   margin: auto;
   width: 50px;
 }
-.dciubersdfg{
+.dciubersdfg {
   color: #122f57;
 }
 .asdfkjhv {
   display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(150px,max-content));
+  grid-template-columns: repeat(auto-fit, minmax(150px, max-content));
   justify-content: center;
-  
+}
+.asdciulhbc {
+  color: #173b6c;
+  font-weight: 900;
+}
+.ciugrbck {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
 }
 @media (max-width: 1199px) {
   #footer {
